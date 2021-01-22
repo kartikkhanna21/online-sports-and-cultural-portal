@@ -1,0 +1,39 @@
+.cardwidth{
+width: 100%;
+margin: 1rem 0;
+padding-top: 0.15rem;
+}
+
+/*.card-img-top {
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+}*/
+
+#eventbanner{
+width: 100%;
+padding: 0.25rem;
+height: 21rem;
+object-fit: cover;
+
+}
+
+.btnfix{
+width: 100%;
+
+}
+
+.card-body{
+padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+
+}
+
+.crdmarg{
+margin-bottom: 0.5rem;
+
+}
+
+.ch5{
+border-bottom: 1px solid black;
+
+}
